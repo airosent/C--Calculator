@@ -1,2 +1,2 @@
-# C--Calculator
+# C# Calculator
 Very simple C# Calculator
